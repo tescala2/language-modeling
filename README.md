@@ -1,9 +1,7 @@
 # language-modeling
 NLP project for generating text
 
-This project goes through preprocessing datasets as well as creating
-
-and training LSTM models to predict and generate text in pytorch
+This project goes through preprocessing datasets as well as creating and training LSTM models to predict and generate text in pytorch
 
 Preprocessing:
 
